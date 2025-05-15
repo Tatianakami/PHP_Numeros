@@ -69,18 +69,6 @@ Acesso:
 
 Abra http://localhost/analisador-numeros-reais no navegador
 
-🧪 Testando o Sistema
-Casos válidos:
-
-3.1415 → Inteira: 3, Fracionária: 0.1415
-
--2.7182 → Inteira: -2, Fracionária: 0.7182
-
-Casos inválidos:
-
-Texto → Mensagem de erro
-
-Campo vazio → Valor padrão (0)
 
 📝 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
