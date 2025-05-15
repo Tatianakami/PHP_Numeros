@@ -5,6 +5,8 @@ Licença MIT
 📌 Visão Geral
 O Analisador de Números Reais é uma ferramenta web desenvolvida para análise e decomposição de números reais em suas partes constituintes: parte inteira e parte fracionária. O projeto foi criado com propósitos educacionais, demonstrando conceitos fundamentais de:
 <img src="assets/analisadorpng.png" alt="Formulário" width="600">
+
+
 Processamento de números em PHP
 
 Validação de formulários HTML
